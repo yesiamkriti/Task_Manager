@@ -1,2 +1,2 @@
 # Task_Manager
- project management tool using the MERN stack enable users to create and manage projects effectively
+a comprehensive project management tool using the MERN stack (MongoDB, Express.js, React, Node.js). The tool will enable users to create and manage projects effectively. Users can create projects, assign tasks to team members, set deadlines, and track progress. The frontend, built with React, will offer a user-friendly interface, while the backend, powered by Node.js and Express.js, will handle API requests and data processing. MongoDB will be used for data storage, ensuring scalability and flexibility. This tool aims to streamline project management and enhance team collaboration.
